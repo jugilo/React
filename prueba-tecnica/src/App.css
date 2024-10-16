@@ -1,0 +1,9 @@
+img{
+  max-width: 320px;
+}
+
+main{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
